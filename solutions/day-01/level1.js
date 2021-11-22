@@ -1,18 +1,3 @@
-const items = [{
-  name: 'pepito'
-},
-  {
-    name: 'juanito'
-  },
-  {
-    name: 'jorgito'
-  }
-]
-const level = (items) => {
-  for (let item of items) {
-    console.log(item.name)
-  }
-}
 // 1 - Declare an empty array;
 const myArray = []
 
